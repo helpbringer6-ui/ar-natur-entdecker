@@ -1,0 +1,17 @@
+{
+  "name": "ar-natur-entdecker",
+  "version": "1.0.0",
+  "description": "Eine Augmented-Reality-Anwendung zur Erkundung und Identifizierung von Pflanzen und Tieren in der Natur.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "three": "^0.133.1",
+    "aframe": "^1.2.0"
+  },
+  "author": "Ihr Name",
+  "license": "MIT"
+}
