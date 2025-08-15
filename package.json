@@ -16,7 +16,7 @@
   "devDependencies": {
     "jest": "^27.0.0"
   },
-  "author": "Ihr Name",
+  "author": "Max Mustermann",  // Updated author name
   "license": "MIT",
   "keywords": ["augmented-reality", "nature", "plants", "animals"],
   "homepage": "https://github.com/IhrBenutzername/ar-natur-entdecker"
